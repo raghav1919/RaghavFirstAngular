@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0980f150a5e849b8a2020b8dbf55c572" Name="Diagram1">
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.AclRecord" Width="1.5" PointX="17.25" PointY="57.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ActivityLog" Width="1.5" PointX="12" PointY="63.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ActivityLogType" Width="1.5" PointX="9.75" PointY="59.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Address" Width="1.5" PointX="7.5" PointY="63.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.AddressAttribute" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.AddressAttributeValue" Width="1.5" PointX="3" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Affiliate" Width="1.5" PointX="9.75" PointY="53.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.BackInStockSubscription" Width="1.5" PointX="15" PointY="66.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.BlogComment" Width="1.5" PointX="12" PointY="70" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.BlogPost" Width="1.5" PointX="9.75" PointY="79.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Campaign" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Category" Width="1.5" PointX="9.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CategoryTemplate" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CheckoutAttribute" Width="1.5" PointX="10.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CheckoutAttributeValue" Width="1.5" PointX="13" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Country" Width="1.5" PointX="3" PointY="51.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CrossSellProduct" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Currency" Width="1.5" PointX="5.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Customer" Width="1.5" PointX="9.75" PointY="62.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CustomerAttribute" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CustomerAttributeValue" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CustomerPassword" Width="1.5" PointX="12" PointY="67" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.CustomerRole" Width="1.5" PointX="15" PointY="61.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.DeliveryDate" Width="1.5" PointX="11.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Discount" Width="1.5" PointX="7.5" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.DiscountRequirement" Width="1.5" PointX="9.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.DiscountUsageHistory" Width="1.5" PointX="26.25" PointY="66.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Download" Width="1.5" PointX="11.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.EmailAccount" Width="1.5" PointX="5.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ExternalAuthenticationRecord" Width="1.5" PointX="12" PointY="74.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_Forum" Width="1.5" PointX="15.75" PointY="44.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_Group" Width="1.5" PointX="13.5" PointY="45.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_Post" Width="1.5" PointX="15" PointY="70" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_PostVote" Width="1.5" PointX="17.25" PointY="78.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_PrivateMessage" Width="1.5" PointX="12" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_Subscription" Width="1.5" PointX="12" PointY="85.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Forums_Topic" Width="1.5" PointX="18" PointY="65.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.GenericAttribute" Width="1.5" PointX="13.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.GiftCard" Width="1.5" PointX="28.5" PointY="70.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.GiftCardUsageHistory" Width="1.5" PointX="26.25" PointY="63.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Language" Width="1.5" PointX="13.5" PointY="52.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.LocaleStringResource" Width="1.5" PointX="15.75" PointY="74" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.LocalizedProperty" Width="1.5" PointX="15.75" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Log" Width="1.5" PointX="12" PointY="93.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Manufacturer" Width="1.5" PointX="9.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ManufacturerTemplate" Width="1.5" PointX="13.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.MeasureDimension" Width="1.5" PointX="13.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.MeasureWeight" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.MessageTemplate" Width="1.5" PointX="2.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.News" Width="1.5" PointX="15.75" PointY="52.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.NewsComment" Width="1.5" PointX="18" PointY="61" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.NewsLetterSubscription" Width="1.5" PointX="11.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Order" Width="1.5" PointX="21" PointY="60.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.OrderItem" Width="1.5" PointX="26.25" PointY="69.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.OrderNote" Width="1.5" PointX="23.25" PointY="68.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.PermissionRecord" Width="1.5" PointX="12.75" PointY="49.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Picture" Width="1.5" PointX="12.75" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Poll" Width="1.5" PointX="13.5" PointY="97.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.PollAnswer" Width="1.5" PointX="15.75" PointY="98.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.PollVotingRecord" Width="1.5" PointX="18" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.PredefinedProductAttributeValue" Width="1.5" PointX="18" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product" Width="1.5" PointX="9.75" PointY="28.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product_Category_Mapping" Width="1.5" PointX="15" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product_Manufacturer_Mapping" Width="1.5" PointX="12" PointY="30.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product_Picture_Mapping" Width="1.5" PointX="15" PointY="39" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product_ProductAttribute_Mapping" Width="1.5" PointX="18" PointY="38" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Product_SpecificationAttribute_Mapping" Width="1.5" PointX="18" PointY="33.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductAttribute" Width="1.5" PointX="15.75" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductAttributeCombination" Width="1.5" PointX="12" PointY="41.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductAttributeValue" Width="1.5" PointX="20.25" PointY="38" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductAvailabilityRange" Width="1.5" PointX="13.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductReview" Width="1.5" PointX="12" PointY="57.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductReviewHelpfulness" Width="1.5" PointX="14.25" PointY="58.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductTag" Width="1.5" PointX="12" PointY="38" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductTemplate" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ProductWarehouseInventory" Width="1.5" PointX="15" PointY="35.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.QueuedEmail" Width="1.5" PointX="8" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.RecurringPayment" Width="1.5" PointX="23.25" PointY="77.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.RecurringPaymentHistory" Width="1.5" PointX="25.5" PointY="78.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.RelatedProduct" Width="1.5" PointX="15.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ReturnRequest" Width="1.5" PointX="12" PointY="123.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ReturnRequestAction" Width="1.5" PointX="15.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ReturnRequestReason" Width="1.5" PointX="15.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.RewardPointsHistory" Width="1.5" PointX="23.25" PointY="72" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ScheduleTask" Width="1.5" PointX="15.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.SearchTerm" Width="1.5" PointX="4.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Setting" Width="1.5" PointX="6.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Shipment" Width="1.5" PointX="23.25" PointY="85.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ShipmentItem" Width="1.5" PointX="25.5" PointY="86.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ShippingMethod" Width="1.5" PointX="0.75" PointY="52.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.ShoppingCartItem" Width="1.5" PointX="18" PointY="73.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.SpecificationAttribute" Width="1.5" PointX="13.5" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.SpecificationAttributeOption" Width="1.5" PointX="15.75" PointY="26.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.StateProvince" Width="1.5" PointX="5.25" PointY="77.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.StockQuantityHistory" Width="1.5" PointX="12" PointY="34.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Store" Width="1.5" PointX="9.75" PointY="73.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.StoreMapping" Width="1.5" PointX="12" PointY="77.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.TaxCategory" Width="1.5" PointX="15.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.TierPrice" Width="1.5" PointX="23.25" PointY="62" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Topic" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.TopicTemplate" Width="1.5" PointX="17.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.UrlRecord" Width="1.5" PointX="17.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Vendor" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.VendorNote" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RaghavNopCommerceModel.Warehouse" Width="1.5" PointX="12.75" PointY="24.125" IsExpanded="true" />
+        <AssociationConnector Association="RaghavNopCommerceModel.AclRecord_CustomerRole" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ActivityLog_ActivityLogType" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ActivityLog_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Address_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Address_StateProvince" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Affiliate_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Customer_BillingAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Customer_ShippingAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Order_BillingAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Order_PickupAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Order_ShippingAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.AddressAttributeValue_AddressAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BackInStockSubscription_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BackInStockSubscription_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BlogComment_BlogPost" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BlogComment_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BlogComment_Store" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.BlogPost_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductCategory_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.CheckoutAttributeValue_CheckoutAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.StateProvince_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.CustomerPassword_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ExternalAuthenticationRecord_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumPost_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumSubscription_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumTopic_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Log_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.NewsComment_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Order_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PollVotingRecord_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PrivateMessage_FromCustomer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PrivateMessage_ToCustomer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductReview_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ReturnRequest_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.RewardPointsHistory_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ShoppingCartItem_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.CustomerAttributeValue_CustomerAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.TierPrice_CustomerRole" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Discount_DiscountRequirements" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.DiscountUsageHistory_Discount" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.DiscountRequirement_ChildRequirements" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.DiscountUsageHistory_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.QueuedEmail_EmailAccount" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Forum_ForumGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumTopic_Forum" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumPost_ForumTopic" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ForumPostVote_ForumPost" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.GiftCard_PurchasedWithOrderItem" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.GiftCardUsageHistory_GiftCard" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.GiftCardUsageHistory_UsedWithOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.LocaleStringResource_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.LocalizedProperty_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.NewsItem_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Poll_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductManufacturer_Manufacturer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.NewsComment_NewsItem" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.NewsComment_Store" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.OrderItem_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.OrderNote_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.RecurringPayment_InitialOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.RewardPointsHistory_UsedWithOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Shipment_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.OrderItem_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductPicture_Picture" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PollAnswer_Poll" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PollVotingRecord_PollAnswer" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PredefinedProductAttributeValue_ProductAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductAttributeCombination_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductAttributeMapping_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductCategory_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductManufacturer_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductPicture_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductReview_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductSpecificationAttribute_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductWarehouseInventory_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ShoppingCartItem_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.StockQuantityHistory_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.TierPrice_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductAttributeMapping_ProductAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductAttributeValue_ProductAttributeMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductSpecificationAttribute_SpecificationAttributeOption" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductReview_Store" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductReviewHelpfulness_ProductReview" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ProductWarehouseInventory_Warehouse" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.RecurringPaymentHistory_RecurringPayment" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ShipmentItem_Shipment" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.SpecificationAttributeOption_SpecificationAttribute" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.StoreMapping_Store" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.VendorNote_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Customer_CustomerRole_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.CustomerAddresses" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Discount_AppliedToCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Discount_AppliedToManufacturers" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Discount_AppliedToProducts" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.PermissionRecord_Role_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.Product_ProductTag_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="RaghavNopCommerceModel.ShippingMethodRestrictions" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
